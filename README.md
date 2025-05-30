@@ -87,14 +87,16 @@ This helped the model better handle structured and technical images with high me
 - If no metadata is provided, the model defaults to image-only captioning.
 - Concise and detailed captions are visually displayed with length and confidence difference.
 - <p align="center">
-  <img src="image(2).png" alt="Pipeline" width="600"/>
+  <img src="image%20(2).png" width="600" height="400"/>
+    </p>
+ <p align="center">
+  <img src="image%20(3).png" width="600" height="400"/>
+  </p>
+  <p align="center">
+  <img src="image%20(4).png" width="600" height="400"/>
 </p>
-<p align="center">
-  <img src="image(3).png" alt="Pipeline" width="600"/>
-</p>
-<p align="center">
-  <img src="image(4).png" alt="Pipeline" width="600"/>
-</p>
+
+
 
 
 
