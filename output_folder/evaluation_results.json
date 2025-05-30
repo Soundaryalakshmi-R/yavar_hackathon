@@ -1,0 +1,2802 @@
+[
+  {
+    "image_id": "0.jpg",
+    "concise_caption": {
+      "text": "a young boy with autism has a repetitive pattern of repetitive movements, such as a repetitive",
+      "confidence": 1.0,
+      "bleu": 0.0,
+      "rouge_l": 0.1702,
+      "blip_consistency": 0.1459,
+      "candidate_captions": [
+        "an image of a person in a room with a computer screen",
+        "an image of a person in a room with a book",
+        "an image of a person in a room"
+      ]
+    },
+    "detailed_caption": {
+      "text": "a young boy with autism has a repetitive pattern of repetitive movements, such as a repetitive",
+      "confidence": 1.0,
+      "bleu": 0.0,
+      "rouge_l": 0.1702,
+      "blip_consistency": 0.1459,
+      "candidate_captions": [
+        "an image of a person in a room with a computer screen",
+        "an image of a person in a room with a book",
+        "an image of a person in a room"
+      ]
+    },
+    "metadata_consistency": true
+  },
+  {
+    "image_id": "1.jpg",
+    "concise_caption": {
+      "text": "chromosomes are a genetically encoded sequence of chromosomes that",
+      "confidence": 1.0,
+      "bleu": 0.0,
+      "rouge_l": 0.0385,
+      "blip_consistency": 0.1253,
+      "candidate_captions": [
+        "a black and white image of a clock with a clock in the background",
+        "a black and white image of a clock with a clock on it",
+        "a black and white image of a train moving on a track"
+      ]
+    },
+    "detailed_caption": {
+      "text": "chromosomes are a genetically encoded sequence of chromosomes that",
+      "confidence": 1.0,
+      "bleu": 0.0,
+      "rouge_l": 0.0385,
+      "blip_consistency": 0.1253,
+      "candidate_captions": [
+        "a black and white image of a clock with a clock in the background",
+        "a black and white image of a clock with a clock on it",
+        "a black and white image of a train moving on a track"
+      ]
+    },
+    "metadata_consistency": true
+  },
+  {
+    "image_id": "10.jpg",
+    "concise_caption": {
+      "text": "a sailor and his sailor, a sailor and",
+      "confidence": 1.0,
+      "bleu": 0.0,
+      "rouge_l": 0.0811,
+      "blip_consistency": 0.0514,
+      "candidate_captions": [
+        "an image of a woman in a black and white dress with a black and white hat",
+        "an image of a woman in a black dress with a black veil",
+        "an image of a woman in a black and white dress"
+      ]
+    },
+    "detailed_caption": {
+      "text": "a sailor and his sailor, a sailor and",
+      "confidence": 1.0,
+      "bleu": 0.0,
+      "rouge_l": 0.0811,
+      "blip_consistency": 0.0514,
+      "candidate_captions": [
+        "an image of a woman in a black and white dress with a black and white hat",
+        "an image of a woman in a black dress with a black veil",
+        "an image of a woman in a black and white dress"
+      ]
+    },
+    "metadata_consistency": true
+  },
+  {
+    "image_id": "100.jpg",
+    "concise_caption": {
+      "text": "a series of public debates about the nature of the universe",
+      "confidence": 1.0,
+      "bleu": 0.0039,
+      "rouge_l": 0.2692,
+      "blip_consistency": 0.0149,
+      "candidate_captions": [
+        "a black and white image of a person in a room",
+        "a black and white image of a woman in a bathrobe",
+        "a black and white image of a woman in a bath"
+      ]
+    },
+    "detailed_caption": {
+      "text": "a series of public debates about the nature of the universe",
+      "confidence": 1.0,
+      "bleu": 0.0039,
+      "rouge_l": 0.2692,
+      "blip_consistency": 0.0149,
+      "candidate_captions": [
+        "a black and white image of a person in a room",
+        "a black and white image of a woman in a bathrobe",
+        "a black and white image of a woman in a bath"
+      ]
+    },
+    "metadata_consistency": true
+  },
+  {
+    "image_id": "1000.jpg",
+    "concise_caption": {
+      "text": "a museum in the city of paris, a museum dedicated to the guitar",
+      "confidence": 1.0,
+      "bleu": 0.0111,
+      "rouge_l": 0.0625,
+      "blip_consistency": 0.0654,
+      "candidate_captions": [
+        "an image of a tetrahedron in a tetrahedron",
+        "an image of a train track with a train on it",
+        "an image of a tetrahedron in a glass of water"
+      ]
+    },
+    "detailed_caption": {
+      "text": "a museum in the city of paris, a museum dedicated to the guitar",
+      "confidence": 1.0,
+      "bleu": 0.0111,
+      "rouge_l": 0.0625,
+      "blip_consistency": 0.0654,
+      "candidate_captions": [
+        "an image of a tetrahedron in a tetrahedron",
+        "an image of a train track with a train on it",
+        "an image of a tetrahedron in a glass of water"
+      ]
+    },
+    "metadata_consistency": true
+  },
+  {
+    "image_id": "10000.jpg",
+    "concise_caption": {
+      "text": "a city in the state of california",
+      "confidence": 1.0,
+      "bleu": 0.0,
+      "rouge_l": 0.0632,
+      "blip_consistency": 0.3233,
+      "candidate_captions": [
+        "a view of a building with a clock tower in the background",
+        "a view of a building in a city",
+        "a view of a building with a clock tower"
+      ]
+    },
+    "detailed_caption": {
+      "text": "a city in the state of california",
+      "confidence": 1.0,
+      "bleu": 0.0,
+      "rouge_l": 0.0632,
+      "blip_consistency": 0.3233,
+      "candidate_captions": [
+        "a view of a building with a clock tower in the background",
+        "a view of a building in a city",
+        "a view of a building with a clock tower"
+      ]
+    },
+    "metadata_consistency": true
+  },
+  {
+    "image_id": "100000.jpg",
+    "concise_caption": {
+      "text": "a three-run home run by chris robinson in the first",
+      "confidence": 1.0,
+      "bleu": 0.0,
+      "rouge_l": 0.099,
+      "blip_consistency": 0.3067,
+      "candidate_captions": [
+        "an image of a baseball player in a baseball uniform",
+        "an image of a baseball player in a uniform",
+        "a baseball player in a baseball uniform"
+      ]
+    },
+    "detailed_caption": {
+      "text": "a three-run home run by chris robinson in the first",
+      "confidence": 1.0,
+      "bleu": 0.0,
+      "rouge_l": 0.099,
+      "blip_consistency": 0.3067,
+      "candidate_captions": [
+        "an image of a baseball player in a baseball uniform",
+        "an image of a baseball player in a uniform",
+        "a baseball player in a baseball uniform"
+      ]
+    },
+    "metadata_consistency": true
+  },
+  {
+    "image_id": "100001.jpg",
+    "concise_caption": {
+      "text": "a sat in the middle of the field, with the ball in the middle of the",
+      "confidence": 1.0,
+      "bleu": 0.0,
+      "rouge_l": 0.0855,
+      "blip_consistency": 0.2108,
+      "candidate_captions": [
+        "a black and white image of a clock with a clock on it",
+        "a black and white image of a clock with a clock face",
+        "a black and white image of a clock"
+      ]
+    },
+    "detailed_caption": {
+      "text": "a sat in the middle of the field, with the ball in the middle of the",
+      "confidence": 1.0,
+      "bleu": 0.0,
+      "rouge_l": 0.0855,
+      "blip_consistency": 0.2108,
+      "candidate_captions": [
+        "a black and white image of a clock with a clock on it",
+        "a black and white image of a clock with a clock face",
+        "a black and white image of a clock"
+      ]
+    },
+    "metadata_consistency": true
+  },
+  {
+    "image_id": "100002.jpg",
+    "concise_caption": {
+      "text": "a baseball game between two teams of college students",
+      "confidence": 1.0,
+      "bleu": 0.0,
+      "rouge_l": 0.0741,
+      "blip_consistency": 0.0235,
+      "candidate_captions": [
+        "a man in a blue shirt with a red tie",
+        "a man in a blue shirt with a blue tie",
+        "a man in a blue shirt and tie"
+      ]
+    },
+    "detailed_caption": {
+      "text": "a baseball game between two teams of college students",
+      "confidence": 1.0,
+      "bleu": 0.0,
+      "rouge_l": 0.0741,
+      "blip_consistency": 0.0235,
+      "candidate_captions": [
+        "a man in a blue shirt with a red tie",
+        "a man in a blue shirt with a blue tie",
+        "a man in a blue shirt and tie"
+      ]
+    },
+    "metadata_consistency": true
+  },
+  {
+    "image_id": "100003.jpg",
+    "concise_caption": {
+      "text": "a photo of a man and woman in a studio with a microphone and a",
+      "confidence": 1.0,
+      "bleu": 0.0001,
+      "rouge_l": 0.1414,
+      "blip_consistency": 0.1823,
+      "candidate_captions": [
+        "a black and white image of a bird flying in the sky",
+        "a black and white image of a bird in flight",
+        "a black and white image of a bird flying in the air"
+      ]
+    },
+    "detailed_caption": {
+      "text": "a photo of a man and woman in a studio with a microphone and a",
+      "confidence": 1.0,
+      "bleu": 0.0001,
+      "rouge_l": 0.1414,
+      "blip_consistency": 0.1823,
+      "candidate_captions": [
+        "a black and white image of a bird flying in the sky",
+        "a black and white image of a bird in flight",
+        "a black and white image of a bird flying in the air"
+      ]
+    },
+    "metadata_consistency": true
+  },
+  {
+    "image_id": "100004.jpg",
+    "concise_caption": {
+      "text": "a sonic sonic sonic sonic sonic sonic",
+      "confidence": 1.0,
+      "bleu": 0,
+      "rouge_l": 0.0,
+      "blip_consistency": 0.1156,
+      "candidate_captions": [
+        "a black and white image of a woman in a blue dress",
+        "a black and white image of a woman in a blue shirt",
+        "a black and white image of a woman in a bath"
+      ]
+    },
+    "detailed_caption": {
+      "text": "a sonic sonic sonic sonic sonic sonic",
+      "confidence": 1.0,
+      "bleu": 0,
+      "rouge_l": 0.0,
+      "blip_consistency": 0.1156,
+      "candidate_captions": [
+        "a black and white image of a woman in a blue dress",
+        "a black and white image of a woman in a blue shirt",
+        "a black and white image of a woman in a bath"
+      ]
+    },
+    "metadata_consistency": true
+  },
+  {
+    "image_id": "100006.jpg",
+    "concise_caption": {
+      "text": "a two-hour listening party took place for the album",
+      "confidence": 1.0,
+      "bleu": 0.0,
+      "rouge_l": 0.1416,
+      "blip_consistency": 0.0056,
+      "candidate_captions": [
+        "a man in a suit with glasses and a hat",
+        "a man in a suit with glasses and a tie",
+        "a man in a suit with a hat and glasses"
+      ]
+    },
+    "detailed_caption": {
+      "text": "a two-hour listening party took place for the album",
+      "confidence": 1.0,
+      "bleu": 0.0,
+      "rouge_l": 0.1416,
+      "blip_consistency": 0.0056,
+      "candidate_captions": [
+        "a man in a suit with glasses and a hat",
+        "a man in a suit with glasses and a tie",
+        "a man in a suit with a hat and glasses"
+      ]
+    },
+    "metadata_consistency": true
+  },
+  {
+    "image_id": "100007.jpg",
+    "concise_caption": {
+      "text": "a view of the Teton Range from the Teton Range in the Teton",
+      "confidence": 1.0,
+      "bleu": 0.0,
+      "rouge_l": 0.1509,
+      "blip_consistency": 0.1999,
+      "candidate_captions": [
+        "an image of a house with a tree in the background",
+        "an image of a house in a field with trees",
+        "an image of a house in a forest"
+      ]
+    },
+    "detailed_caption": {
+      "text": "a view of the Teton Range from the Teton Range in the Teton",
+      "confidence": 1.0,
+      "bleu": 0.0,
+      "rouge_l": 0.1509,
+      "blip_consistency": 0.1999,
+      "candidate_captions": [
+        "an image of a house with a tree in the background",
+        "an image of a house in a field with trees",
+        "an image of a house in a forest"
+      ]
+    },
+    "metadata_consistency": true
+  },
+  {
+    "image_id": "10001.jpg",
+    "concise_caption": {
+      "text": "a sandstone wall that had been eroded by the sandstone",
+      "confidence": 1.0,
+      "bleu": 0.0001,
+      "rouge_l": 0.1558,
+      "blip_consistency": 0.197,
+      "candidate_captions": [
+        "a view of a building with a view of a city",
+        "a view of a building with a view of a building",
+        "a view of a building in the city"
+      ]
+    },
+    "detailed_caption": {
+      "text": "a sandstone wall that had been eroded by the sandstone",
+      "confidence": 1.0,
+      "bleu": 0.0001,
+      "rouge_l": 0.1558,
+      "blip_consistency": 0.197,
+      "candidate_captions": [
+        "a view of a building with a view of a city",
+        "a view of a building with a view of a building",
+        "a view of a building in the city"
+      ]
+    },
+    "metadata_consistency": true
+  },
+  {
+    "image_id": "100012.jpg",
+    "concise_caption": {
+      "text": "a soldier who was shot in the leg and then died in a hand to hand fight with",
+      "confidence": 1.0,
+      "bleu": 0.0009,
+      "rouge_l": 0.1364,
+      "blip_consistency": 0.0929,
+      "candidate_captions": [
+        "a black and white image of a clock with a clock in the background",
+        "a black and white image of a clock with a clock on it",
+        "a black and white image of a clock with a clock face on it"
+      ]
+    },
+    "detailed_caption": {
+      "text": "a soldier who was shot in the leg and then died in a hand to hand fight with",
+      "confidence": 1.0,
+      "bleu": 0.0009,
+      "rouge_l": 0.1364,
+      "blip_consistency": 0.0929,
+      "candidate_captions": [
+        "a black and white image of a clock with a clock in the background",
+        "a black and white image of a clock with a clock on it",
+        "a black and white image of a clock with a clock face on it"
+      ]
+    },
+    "metadata_consistency": true
+  },
+  {
+    "image_id": "100013.jpg",
+    "concise_caption": {
+      "text": "The Iraqi conflict has had a significant impact on the oil and gas industry in the country,",
+      "confidence": 1.0,
+      "bleu": 0.0021,
+      "rouge_l": 0.2308,
+      "blip_consistency": 0.0728,
+      "candidate_captions": [
+        "a diagram of a graph of a graph of a graph",
+        "a diagram of a graph of a chart of a graph",
+        "a diagram of a graph of a graph"
+      ]
+    },
+    "detailed_caption": {
+      "text": "The Iraqi conflict has had a significant impact on the oil and gas industry in the country,",
+      "confidence": 1.0,
+      "bleu": 0.0021,
+      "rouge_l": 0.2308,
+      "blip_consistency": 0.0728,
+      "candidate_captions": [
+        "a diagram of a graph of a graph of a graph",
+        "a diagram of a graph of a chart of a graph",
+        "a diagram of a graph of a graph"
+      ]
+    },
+    "metadata_consistency": true
+  },
+  {
+    "image_id": "100014.jpg",
+    "concise_caption": {
+      "text": "a scene from a dream",
+      "confidence": 1.0,
+      "bleu": 0.0,
+      "rouge_l": 0.0635,
+      "blip_consistency": -0.0221,
+      "candidate_captions": [
+        "a woman is sitting in a chair with a laptop computer",
+        "a woman is sitting in a chair with her legs crossed",
+        "a woman is sitting in a chair"
+      ]
+    },
+    "detailed_caption": {
+      "text": "a scene from a dream",
+      "confidence": 1.0,
+      "bleu": 0.0,
+      "rouge_l": 0.0635,
+      "blip_consistency": -0.0221,
+      "candidate_captions": [
+        "a woman is sitting in a chair with a laptop computer",
+        "a woman is sitting in a chair with her legs crossed",
+        "a woman is sitting in a chair"
+      ]
+    },
+    "metadata_consistency": true
+  },
+  {
+    "image_id": "100016.jpg",
+    "concise_caption": {
+      "text": "a very short caption.",
+      "confidence": 1.0,
+      "bleu": 0.0,
+      "rouge_l": 0.023,
+      "blip_consistency": 0.1984,
+      "candidate_captions": [
+        "a view of a tree in a forest",
+        "an aerial view of a field with trees and grass",
+        "a view of a tree in a field"
+      ]
+    },
+    "detailed_caption": {
+      "text": "a very short caption.",
+      "confidence": 1.0,
+      "bleu": 0.0,
+      "rouge_l": 0.023,
+      "blip_consistency": 0.1984,
+      "candidate_captions": [
+        "a view of a tree in a forest",
+        "an aerial view of a field with trees and grass",
+        "a view of a tree in a field"
+      ]
+    },
+    "metadata_consistency": true
+  },
+  {
+    "image_id": "100017.jpg",
+    "concise_caption": {
+      "text": "a train station in the town of exeter, england",
+      "confidence": 1.0,
+      "bleu": 0.0009,
+      "rouge_l": 0.1887,
+      "blip_consistency": 0.089,
+      "candidate_captions": [
+        "a view of a tree in a forest",
+        "a view of a tree in a field of trees",
+        "a view of a forest with trees and a bridge"
+      ]
+    },
+    "detailed_caption": {
+      "text": "a train station in the town of exeter, england",
+      "confidence": 1.0,
+      "bleu": 0.0009,
+      "rouge_l": 0.1887,
+      "blip_consistency": 0.089,
+      "candidate_captions": [
+        "a view of a tree in a forest",
+        "a view of a tree in a field of trees",
+        "a view of a forest with trees and a bridge"
+      ]
+    },
+    "metadata_consistency": true
+  },
+  {
+    "image_id": "100018.jpg",
+    "concise_caption": {
+      "text": "a young artist who has been inspired by the work of a famous artist",
+      "confidence": 1.0,
+      "bleu": 0.0,
+      "rouge_l": 0.0957,
+      "blip_consistency": 0.1405,
+      "candidate_captions": [
+        "an image of a tree in a field of grass",
+        "an image of a tree in a forest",
+        "an image of a tree in a field"
+      ]
+    },
+    "detailed_caption": {
+      "text": "a young artist who has been inspired by the work of a famous artist",
+      "confidence": 1.0,
+      "bleu": 0.0,
+      "rouge_l": 0.0957,
+      "blip_consistency": 0.1405,
+      "candidate_captions": [
+        "an image of a tree in a field of grass",
+        "an image of a tree in a forest",
+        "an image of a tree in a field"
+      ]
+    },
+    "metadata_consistency": true
+  },
+  {
+    "image_id": "100019.jpg",
+    "concise_caption": {
+      "text": "a sculptor's work in the form of a sculpture, a sculpture,",
+      "confidence": 1.0,
+      "bleu": 0.0,
+      "rouge_l": 0.0513,
+      "blip_consistency": 0.1744,
+      "candidate_captions": [
+        "an image of a tree in a field of grass",
+        "an image of a tree in a grassy field",
+        "an image of a tree in a field"
+      ]
+    },
+    "detailed_caption": {
+      "text": "a sculptor's work in the form of a sculpture, a sculpture,",
+      "confidence": 1.0,
+      "bleu": 0.0,
+      "rouge_l": 0.0513,
+      "blip_consistency": 0.1744,
+      "candidate_captions": [
+        "an image of a tree in a field of grass",
+        "an image of a tree in a grassy field",
+        "an image of a tree in a field"
+      ]
+    },
+    "metadata_consistency": true
+  },
+  {
+    "image_id": "10002.jpg",
+    "concise_caption": {
+      "text": "a symbol of the letter j in the middle of the word e",
+      "confidence": 1.0,
+      "bleu": 0.0,
+      "rouge_l": 0.0672,
+      "blip_consistency": 0.0901,
+      "candidate_captions": [
+        "a black and white image of a bird flying in the sky",
+        "a black and white image of a bird flying in a tree",
+        "a black and white image of a tree in a forest"
+      ]
+    },
+    "detailed_caption": {
+      "text": "a symbol of the letter j in the middle of the word e",
+      "confidence": 1.0,
+      "bleu": 0.0,
+      "rouge_l": 0.0672,
+      "blip_consistency": 0.0901,
+      "candidate_captions": [
+        "a black and white image of a bird flying in the sky",
+        "a black and white image of a bird flying in a tree",
+        "a black and white image of a tree in a forest"
+      ]
+    },
+    "metadata_consistency": true
+  },
+  {
+    "image_id": "100020.jpg",
+    "concise_caption": {
+      "text": "he had become more attentive to details and to the details of the world around him, and",
+      "confidence": 1.0,
+      "bleu": 0.0006,
+      "rouge_l": 0.1887,
+      "blip_consistency": 0.1169,
+      "candidate_captions": [
+        "a black and white image of a black and white image of a black and white image",
+        "a black and white image of a train on a train track",
+        "a black and white image of a black and white image of a white image"
+      ]
+    },
+    "detailed_caption": {
+      "text": "he had become more attentive to details and to the details of the world around him, and",
+      "confidence": 1.0,
+      "bleu": 0.0006,
+      "rouge_l": 0.1887,
+      "blip_consistency": 0.1169,
+      "candidate_captions": [
+        "a black and white image of a black and white image of a black and white image",
+        "a black and white image of a train on a train track",
+        "a black and white image of a black and white image of a white image"
+      ]
+    },
+    "metadata_consistency": true
+  },
+  {
+    "image_id": "100021.jpg",
+    "concise_caption": {
+      "text": "a sylated a sylated a syl",
+      "confidence": 1.0,
+      "bleu": 0.0,
+      "rouge_l": 0.0159,
+      "blip_consistency": 0.0664,
+      "candidate_captions": [
+        "a black and white image of a train moving on a track",
+        "a black and white image of a train traveling down a track",
+        "a black and white image of a train on a train track"
+      ]
+    },
+    "detailed_caption": {
+      "text": "a sylated a sylated a syl",
+      "confidence": 1.0,
+      "bleu": 0.0,
+      "rouge_l": 0.0159,
+      "blip_consistency": 0.0664,
+      "candidate_captions": [
+        "a black and white image of a train moving on a track",
+        "a black and white image of a train traveling down a track",
+        "a black and white image of a train on a train track"
+      ]
+    },
+    "metadata_consistency": true
+  },
+  {
+    "image_id": "100022.jpg",
+    "concise_caption": {
+      "text": "The most remarkable among the pieces created there, with its image illustrating Gheorghe Vida",
+      "confidence": 1.0,
+      "bleu": 0.0014,
+      "rouge_l": 0.2796,
+      "blip_consistency": 0.2694,
+      "candidate_captions": [
+        "an image of a computer screen with a blue background",
+        "an image of a computer screen with a pattern of lines and dots",
+        "an image of a computer screen showing a pattern of lines and dots"
+      ]
+    },
+    "detailed_caption": {
+      "text": "The most remarkable among the pieces created there, with its image illustrating Gheorghe Vida",
+      "confidence": 1.0,
+      "bleu": 0.0014,
+      "rouge_l": 0.2796,
+      "blip_consistency": 0.2694,
+      "candidate_captions": [
+        "an image of a computer screen with a blue background",
+        "an image of a computer screen with a pattern of lines and dots",
+        "an image of a computer screen showing a pattern of lines and dots"
+      ]
+    },
+    "metadata_consistency": true
+  },
+  {
+    "image_id": "100023.jpg",
+    "concise_caption": {
+      "text": "a symphony of a symphony of a",
+      "confidence": 1.0,
+      "bleu": 0.0,
+      "rouge_l": 0.0282,
+      "blip_consistency": 0.135,
+      "candidate_captions": [
+        "a drawing of a coffee cup with a cup of coffee",
+        "a drawing of a coffee cup with a cup on it",
+        "a drawing of a coffee cup with a coffee cup"
+      ]
+    },
+    "detailed_caption": {
+      "text": "a symphony of a symphony of a",
+      "confidence": 1.0,
+      "bleu": 0.0,
+      "rouge_l": 0.0282,
+      "blip_consistency": 0.135,
+      "candidate_captions": [
+        "a drawing of a coffee cup with a cup of coffee",
+        "a drawing of a coffee cup with a cup on it",
+        "a drawing of a coffee cup with a coffee cup"
+      ]
+    },
+    "metadata_consistency": true
+  },
+  {
+    "image_id": "100024.jpg",
+    "concise_caption": {
+      "text": "The \"Golden Tripod\" is a sculpture by the artist and architect christian",
+      "confidence": 1.0,
+      "bleu": 0.0,
+      "rouge_l": 0.1132,
+      "blip_consistency": 0.1098,
+      "candidate_captions": [
+        "an image of a room in a house with a lot of furniture",
+        "an image of a room in a house with a lot of windows",
+        "an image of a room in a house with a fireplace"
+      ]
+    },
+    "detailed_caption": {
+      "text": "The \"Golden Tripod\" is a sculpture by the artist and architect christian",
+      "confidence": 1.0,
+      "bleu": 0.0,
+      "rouge_l": 0.1132,
+      "blip_consistency": 0.1098,
+      "candidate_captions": [
+        "an image of a room in a house with a lot of furniture",
+        "an image of a room in a house with a lot of windows",
+        "an image of a room in a house with a fireplace"
+      ]
+    },
+    "metadata_consistency": true
+  },
+  {
+    "image_id": "100025.jpg",
+    "concise_caption": {
+      "text": "\"The ephemerist\" is a term used in the ephe",
+      "confidence": 1.0,
+      "bleu": 0.0,
+      "rouge_l": 0.0155,
+      "blip_consistency": 0.0432,
+      "candidate_captions": [
+        "a view of a room in a house",
+        "a view of a room with a view of a window",
+        "a view of a room with a view of a kitchen"
+      ]
+    },
+    "detailed_caption": {
+      "text": "\"The ephemerist\" is a term used in the ephe",
+      "confidence": 1.0,
+      "bleu": 0.0,
+      "rouge_l": 0.0155,
+      "blip_consistency": 0.0432,
+      "candidate_captions": [
+        "a view of a room in a house",
+        "a view of a room with a view of a window",
+        "a view of a room with a view of a kitchen"
+      ]
+    },
+    "metadata_consistency": true
+  },
+  {
+    "image_id": "100026.jpg",
+    "concise_caption": {
+      "text": "a symphony of a song by the briton group",
+      "confidence": 1.0,
+      "bleu": 0.0,
+      "rouge_l": 0.069,
+      "blip_consistency": 0.1779,
+      "candidate_captions": [
+        "a drawing of a book with a pattern on it",
+        "a drawing of a book with a cover on it",
+        "a book with a cover on it"
+      ]
+    },
+    "detailed_caption": {
+      "text": "a symphony of a song by the briton group",
+      "confidence": 1.0,
+      "bleu": 0.0,
+      "rouge_l": 0.069,
+      "blip_consistency": 0.1779,
+      "candidate_captions": [
+        "a drawing of a book with a pattern on it",
+        "a drawing of a book with a cover on it",
+        "a book with a cover on it"
+      ]
+    },
+    "metadata_consistency": true
+  },
+  {
+    "image_id": "100027.jpg",
+    "concise_caption": {
+      "text": "The earliest known depiction of the twelfth century st john",
+      "confidence": 1.0,
+      "bleu": 0.0,
+      "rouge_l": 0.0484,
+      "blip_consistency": 0.159,
+      "candidate_captions": [
+        "a drawing of a woman in a dress with a hat and glasses",
+        "a drawing of a man with a hat and a hat",
+        "a drawing of a woman with a hat and a hat"
+      ]
+    },
+    "detailed_caption": {
+      "text": "The earliest known depiction of the twelfth century st john",
+      "confidence": 1.0,
+      "bleu": 0.0,
+      "rouge_l": 0.0484,
+      "blip_consistency": 0.159,
+      "candidate_captions": [
+        "a drawing of a woman in a dress with a hat and glasses",
+        "a drawing of a man with a hat and a hat",
+        "a drawing of a woman with a hat and a hat"
+      ]
+    },
+    "metadata_consistency": true
+  },
+  {
+    "image_id": "100028.jpg",
+    "concise_caption": {
+      "text": "a symonym for a symonym for a s",
+      "confidence": 1.0,
+      "bleu": 0.0001,
+      "rouge_l": 0.0426,
+      "blip_consistency": 0.0757,
+      "candidate_captions": [
+        "a black and white image of a black and white image of a person",
+        "a black and white image of a black and white image of a white image",
+        "a black and white image of a person's face"
+      ]
+    },
+    "detailed_caption": {
+      "text": "a symonym for a symonym for a s",
+      "confidence": 1.0,
+      "bleu": 0.0001,
+      "rouge_l": 0.0426,
+      "blip_consistency": 0.0757,
+      "candidate_captions": [
+        "a black and white image of a black and white image of a person",
+        "a black and white image of a black and white image of a white image",
+        "a black and white image of a person's face"
+      ]
+    },
+    "metadata_consistency": true
+  },
+  {
+    "image_id": "100029.jpg",
+    "concise_caption": {
+      "text": "a genus of flowering plants in the family Fabaceae Fabace",
+      "confidence": 1.0,
+      "bleu": 0.0009,
+      "rouge_l": 0.1132,
+      "blip_consistency": 0.3244,
+      "candidate_captions": [
+        "an image of a plant in a field of grass",
+        "an image of a plant in a field",
+        "an image of a plant with a flower in the middle"
+      ]
+    },
+    "detailed_caption": {
+      "text": "a genus of flowering plants in the family Fabaceae Fabace",
+      "confidence": 1.0,
+      "bleu": 0.0009,
+      "rouge_l": 0.1132,
+      "blip_consistency": 0.3244,
+      "candidate_captions": [
+        "an image of a plant in a field of grass",
+        "an image of a plant in a field",
+        "an image of a plant with a flower in the middle"
+      ]
+    },
+    "metadata_consistency": true
+  },
+  {
+    "image_id": "10003.jpg",
+    "concise_caption": {
+      "text": "a squatorial squat",
+      "confidence": 1.0,
+      "bleu": 0,
+      "rouge_l": 0.0,
+      "blip_consistency": 0.1399,
+      "candidate_captions": [
+        "a view of a house in the countryside",
+        "a view of a house in a forest",
+        "a view of a house in a city"
+      ]
+    },
+    "detailed_caption": {
+      "text": "a squatorial squat",
+      "confidence": 1.0,
+      "bleu": 0,
+      "rouge_l": 0.0,
+      "blip_consistency": 0.1399,
+      "candidate_captions": [
+        "a view of a house in the countryside",
+        "a view of a house in a forest",
+        "a view of a house in a city"
+      ]
+    },
+    "metadata_consistency": true
+  },
+  {
+    "image_id": "100030.jpg",
+    "concise_caption": {
+      "text": "a slang word for a person who is a person who is a person",
+      "confidence": 1.0,
+      "bleu": 0.001,
+      "rouge_l": 0.0385,
+      "blip_consistency": -0.0176,
+      "candidate_captions": [
+        "an image of a train on a train track",
+        "an image of a clock with a clock on it",
+        "an image of a train on a track"
+      ]
+    },
+    "detailed_caption": {
+      "text": "a slang word for a person who is a person who is a person",
+      "confidence": 1.0,
+      "bleu": 0.001,
+      "rouge_l": 0.0385,
+      "blip_consistency": -0.0176,
+      "candidate_captions": [
+        "an image of a train on a train track",
+        "an image of a clock with a clock on it",
+        "an image of a train on a track"
+      ]
+    },
+    "metadata_consistency": true
+  },
+  {
+    "image_id": "100031.jpg",
+    "concise_caption": {
+      "text": "UNESCO-Guillermo Cano World Press Freedom Prize, World Press Freedom Day,",
+      "confidence": 1.0,
+      "bleu": 0.0119,
+      "rouge_l": 0.2553,
+      "blip_consistency": 0.0973,
+      "candidate_captions": [
+        "a black and white image of a man in a suit",
+        "a black and white image of a man in a suit with a hat",
+        "a black and white image of a man in a suit and a black shirt"
+      ]
+    },
+    "detailed_caption": {
+      "text": "UNESCO-Guillermo Cano World Press Freedom Prize, World Press Freedom Day,",
+      "confidence": 1.0,
+      "bleu": 0.0119,
+      "rouge_l": 0.2553,
+      "blip_consistency": 0.0973,
+      "candidate_captions": [
+        "a black and white image of a man in a suit",
+        "a black and white image of a man in a suit with a hat",
+        "a black and white image of a man in a suit and a black shirt"
+      ]
+    },
+    "metadata_consistency": true
+  },
+  {
+    "image_id": "100032.jpg",
+    "concise_caption": {
+      "text": "a club in the middle of a street in a city centre",
+      "confidence": 1.0,
+      "bleu": 0.0001,
+      "rouge_l": 0.1159,
+      "blip_consistency": 0.3479,
+      "candidate_captions": [
+        "an image of a building with a clock on it",
+        "an image of a building with a clock tower",
+        "an image of a building in a city"
+      ]
+    },
+    "detailed_caption": {
+      "text": "a club in the middle of a street in a city centre",
+      "confidence": 1.0,
+      "bleu": 0.0001,
+      "rouge_l": 0.1159,
+      "blip_consistency": 0.3479,
+      "candidate_captions": [
+        "an image of a building with a clock on it",
+        "an image of a building with a clock tower",
+        "an image of a building in a city"
+      ]
+    },
+    "metadata_consistency": true
+  },
+  {
+    "image_id": "100033.jpg",
+    "concise_caption": {
+      "text": "a police officer in a traffic control capacity, a police officer in a traffic control",
+      "confidence": 1.0,
+      "bleu": 0.0014,
+      "rouge_l": 0.1519,
+      "blip_consistency": 0.1165,
+      "candidate_captions": [
+        "a view of a forest with trees in the background",
+        "a view of a forest with trees in the distance",
+        "a view of a forest with trees and trees"
+      ]
+    },
+    "detailed_caption": {
+      "text": "a police officer in a traffic control capacity, a police officer in a traffic control",
+      "confidence": 1.0,
+      "bleu": 0.0014,
+      "rouge_l": 0.1519,
+      "blip_consistency": 0.1165,
+      "candidate_captions": [
+        "a view of a forest with trees in the background",
+        "a view of a forest with trees in the distance",
+        "a view of a forest with trees and trees"
+      ]
+    },
+    "metadata_consistency": true
+  },
+  {
+    "image_id": "100034.jpg",
+    "concise_caption": {
+      "text": "The conclave of March 1605 was convened on the death of Pope Clement",
+      "confidence": 1.0,
+      "bleu": 0.0,
+      "rouge_l": 0.2202,
+      "blip_consistency": -0.0316,
+      "candidate_captions": [
+        "an image of a man in a red shirt",
+        "an image of a man in a red shirt and hat",
+        "an image of a man in a red shirt with glasses"
+      ]
+    },
+    "detailed_caption": {
+      "text": "The conclave of March 1605 was convened on the death of Pope Clement",
+      "confidence": 1.0,
+      "bleu": 0.0,
+      "rouge_l": 0.2202,
+      "blip_consistency": -0.0316,
+      "candidate_captions": [
+        "an image of a man in a red shirt",
+        "an image of a man in a red shirt and hat",
+        "an image of a man in a red shirt with glasses"
+      ]
+    },
+    "metadata_consistency": true
+  },
+  {
+    "image_id": "100035.jpg",
+    "concise_caption": {
+      "text": "a symphony of the song \"I'm a little bit mad",
+      "confidence": 1.0,
+      "bleu": 0.0,
+      "rouge_l": 0.0229,
+      "blip_consistency": 0.0995,
+      "candidate_captions": [
+        "an image of a man playing a piano",
+        "a man is playing a guitar with a guitar",
+        "a man is playing a piano with a guitar"
+      ]
+    },
+    "detailed_caption": {
+      "text": "a symphony of the song \"I'm a little bit mad",
+      "confidence": 1.0,
+      "bleu": 0.0,
+      "rouge_l": 0.0229,
+      "blip_consistency": 0.0995,
+      "candidate_captions": [
+        "an image of a man playing a piano",
+        "a man is playing a guitar with a guitar",
+        "a man is playing a piano with a guitar"
+      ]
+    },
+    "metadata_consistency": true
+  },
+  {
+    "image_id": "100036.jpg",
+    "concise_caption": {
+      "text": "a USB 3.0 port is a USB 3.0 port that is a USB 3.0",
+      "confidence": 1.0,
+      "bleu": 0.0014,
+      "rouge_l": 0.1379,
+      "blip_consistency": 0.0247,
+      "candidate_captions": [
+        "a tetrahedron with a tetrahedron in the background",
+        "a tetrahedron with a tetrahedron in the middle",
+        "a tetrahedron in a tetrahedron"
+      ]
+    },
+    "detailed_caption": {
+      "text": "a USB 3.0 port is a USB 3.0 port that is a USB 3.0",
+      "confidence": 1.0,
+      "bleu": 0.0014,
+      "rouge_l": 0.1379,
+      "blip_consistency": 0.0247,
+      "candidate_captions": [
+        "a tetrahedron with a tetrahedron in the background",
+        "a tetrahedron with a tetrahedron in the middle",
+        "a tetrahedron in a tetrahedron"
+      ]
+    },
+    "metadata_consistency": true
+  },
+  {
+    "image_id": "100037.jpg",
+    "concise_caption": {
+      "text": "The game is a very simple game, but it is very fun and challenging.",
+      "confidence": 1.0,
+      "bleu": 0.0,
+      "rouge_l": 0.08,
+      "blip_consistency": 0.0213,
+      "candidate_captions": [
+        "a black and white image of a fire burning in a room",
+        "a black and white image of a fire burning in a fireplace",
+        "a black and white image of a fire burning in a dark room"
+      ]
+    },
+    "detailed_caption": {
+      "text": "The game is a very simple game, but it is very fun and challenging.",
+      "confidence": 1.0,
+      "bleu": 0.0,
+      "rouge_l": 0.08,
+      "blip_consistency": 0.0213,
+      "candidate_captions": [
+        "a black and white image of a fire burning in a room",
+        "a black and white image of a fire burning in a fireplace",
+        "a black and white image of a fire burning in a dark room"
+      ]
+    },
+    "metadata_consistency": true
+  },
+  {
+    "image_id": "100038.jpg",
+    "concise_caption": {
+      "text": "a very short caption.",
+      "confidence": 1.0,
+      "bleu": 0.0,
+      "rouge_l": 0.022,
+      "blip_consistency": 0.1819,
+      "candidate_captions": [
+        "a black and white image of a person in a room",
+        "a black and white image of a woman in a black and white dress",
+        "a black and white image of a woman in a black and white shirt"
+      ]
+    },
+    "detailed_caption": {
+      "text": "a very short caption.",
+      "confidence": 1.0,
+      "bleu": 0.0,
+      "rouge_l": 0.022,
+      "blip_consistency": 0.1819,
+      "candidate_captions": [
+        "a black and white image of a person in a room",
+        "a black and white image of a woman in a black and white dress",
+        "a black and white image of a woman in a black and white shirt"
+      ]
+    },
+    "metadata_consistency": true
+  },
+  {
+    "image_id": "100039.jpg",
+    "concise_caption": {
+      "text": "a symbiotic relationship between the symbiotic relationship between the s",
+      "confidence": 1.0,
+      "bleu": 0.0002,
+      "rouge_l": 0.0323,
+      "blip_consistency": -0.0372,
+      "candidate_captions": [
+        "a man in a white shirt is standing in front of a computer screen",
+        "a man in a blue shirt is standing in front of a computer screen",
+        "a man in a white shirt is standing in front of a computer"
+      ]
+    },
+    "detailed_caption": {
+      "text": "a symbiotic relationship between the symbiotic relationship between the s",
+      "confidence": 1.0,
+      "bleu": 0.0002,
+      "rouge_l": 0.0323,
+      "blip_consistency": -0.0372,
+      "candidate_captions": [
+        "a man in a white shirt is standing in front of a computer screen",
+        "a man in a blue shirt is standing in front of a computer screen",
+        "a man in a white shirt is standing in front of a computer"
+      ]
+    },
+    "metadata_consistency": true
+  },
+  {
+    "image_id": "10004.jpg",
+    "concise_caption": {
+      "text": "a city in the state of arizona, a city in the state of",
+      "confidence": 1.0,
+      "bleu": 0.0002,
+      "rouge_l": 0.1333,
+      "blip_consistency": 0.0224,
+      "candidate_captions": [
+        "an image of a train moving on a train track",
+        "an image of a train moving on a track",
+        "an image of a train moving on a track in the background"
+      ]
+    },
+    "detailed_caption": {
+      "text": "a city in the state of arizona, a city in the state of",
+      "confidence": 1.0,
+      "bleu": 0.0002,
+      "rouge_l": 0.1333,
+      "blip_consistency": 0.0224,
+      "candidate_captions": [
+        "an image of a train moving on a train track",
+        "an image of a train moving on a track",
+        "an image of a train moving on a track in the background"
+      ]
+    },
+    "metadata_consistency": true
+  },
+  {
+    "image_id": "100040.jpg",
+    "concise_caption": {
+      "text": "ed headrick ed headrick ed headrick ed headrick",
+      "confidence": 1.0,
+      "bleu": 0,
+      "rouge_l": 0.0,
+      "blip_consistency": -0.0345,
+      "candidate_captions": [
+        "a man is playing a guitar in a room",
+        "a man is sitting in a chair with a laptop computer",
+        "a woman is sitting in a chair with a laptop computer"
+      ]
+    },
+    "detailed_caption": {
+      "text": "ed headrick ed headrick ed headrick ed headrick",
+      "confidence": 1.0,
+      "bleu": 0,
+      "rouge_l": 0.0,
+      "blip_consistency": -0.0345,
+      "candidate_captions": [
+        "a man is playing a guitar in a room",
+        "a man is sitting in a chair with a laptop computer",
+        "a woman is sitting in a chair with a laptop computer"
+      ]
+    },
+    "metadata_consistency": true
+  },
+  {
+    "image_id": "100041.jpg",
+    "concise_caption": {
+      "text": "a hula hoop hoop hoop hoop h",
+      "confidence": 1.0,
+      "bleu": 0.0,
+      "rouge_l": 0.0506,
+      "blip_consistency": 0.1484,
+      "candidate_captions": [
+        "a black and white image of a person in a black and white frame",
+        "a black and white image of a woman in a black and white frame",
+        "a black and white image of a person in a room"
+      ]
+    },
+    "detailed_caption": {
+      "text": "a hula hoop hoop hoop hoop h",
+      "confidence": 1.0,
+      "bleu": 0.0,
+      "rouge_l": 0.0506,
+      "blip_consistency": 0.1484,
+      "candidate_captions": [
+        "a black and white image of a person in a black and white frame",
+        "a black and white image of a woman in a black and white frame",
+        "a black and white image of a person in a room"
+      ]
+    },
+    "metadata_consistency": true
+  },
+  {
+    "image_id": "100042.jpg",
+    "concise_caption": {
+      "text": "a very short caption.",
+      "confidence": 1.0,
+      "bleu": 0.0,
+      "rouge_l": 0.0182,
+      "blip_consistency": 0.1216,
+      "candidate_captions": [
+        "a drawing of a spiral in the shape of a circle",
+        "a drawing of a spiral in the shape of a spiral",
+        "a drawing of a spiral in a circle"
+      ]
+    },
+    "detailed_caption": {
+      "text": "a very short caption.",
+      "confidence": 1.0,
+      "bleu": 0.0,
+      "rouge_l": 0.0182,
+      "blip_consistency": 0.1216,
+      "candidate_captions": [
+        "a drawing of a spiral in the shape of a circle",
+        "a drawing of a spiral in the shape of a spiral",
+        "a drawing of a spiral in a circle"
+      ]
+    },
+    "metadata_consistency": true
+  },
+  {
+    "image_id": "100043.jpg",
+    "concise_caption": {
+      "text": "a slang term used to describe a slang term that is intended to be",
+      "confidence": 1.0,
+      "bleu": 0.0,
+      "rouge_l": 0.0625,
+      "blip_consistency": -0.0925,
+      "candidate_captions": [
+        "a drawing of a tree with branches and leaves",
+        "a drawing of a tree in a forest",
+        "a drawing of a tree with branches and leaves on it"
+      ]
+    },
+    "detailed_caption": {
+      "text": "a slang term used to describe a slang term that is intended to be",
+      "confidence": 1.0,
+      "bleu": 0.0,
+      "rouge_l": 0.0625,
+      "blip_consistency": -0.0925,
+      "candidate_captions": [
+        "a drawing of a tree with branches and leaves",
+        "a drawing of a tree in a forest",
+        "a drawing of a tree with branches and leaves on it"
+      ]
+    },
+    "metadata_consistency": true
+  },
+  {
+    "image_id": "100044.jpg",
+    "concise_caption": {
+      "text": "a photo of some of Ed Headrick's business cards showing some of his work history up",
+      "confidence": 1.0,
+      "bleu": 0.0042,
+      "rouge_l": 0.241,
+      "blip_consistency": 0.3127,
+      "candidate_captions": [
+        "a stack of papers on a table",
+        "a stack of papers on a flat surface",
+        "a stack of papers on a tabletop"
+      ]
+    },
+    "detailed_caption": {
+      "text": "a photo of some of Ed Headrick's business cards showing some of his work history up",
+      "confidence": 1.0,
+      "bleu": 0.0042,
+      "rouge_l": 0.241,
+      "blip_consistency": 0.3127,
+      "candidate_captions": [
+        "a stack of papers on a table",
+        "a stack of papers on a flat surface",
+        "a stack of papers on a tabletop"
+      ]
+    },
+    "metadata_consistency": true
+  },
+  {
+    "image_id": "100046.jpg",
+    "concise_caption": {
+      "text": "a group of women who were a part of the executive committee of the American Women's",
+      "confidence": 1.0,
+      "bleu": 0.0007,
+      "rouge_l": 0.1961,
+      "blip_consistency": 0.1224,
+      "candidate_captions": [
+        "a black and white image of a woman's face",
+        "a black and white image of a person's face",
+        "a black and white image of a woman's face with a black background"
+      ]
+    },
+    "detailed_caption": {
+      "text": "a group of women who were a part of the executive committee of the American Women's",
+      "confidence": 1.0,
+      "bleu": 0.0007,
+      "rouge_l": 0.1961,
+      "blip_consistency": 0.1224,
+      "candidate_captions": [
+        "a black and white image of a woman's face",
+        "a black and white image of a person's face",
+        "a black and white image of a woman's face with a black background"
+      ]
+    },
+    "metadata_consistency": true
+  },
+  {
+    "image_id": "100047.jpg",
+    "concise_caption": {
+      "text": "a symphony of a song",
+      "confidence": 1.0,
+      "bleu": 0.0,
+      "rouge_l": 0.044,
+      "blip_consistency": -0.0297,
+      "candidate_captions": [
+        "a man is sitting on a couch with a cup of coffee",
+        "a man is sitting on a couch with a cup of coffee in his hand",
+        "a man is sitting on a couch with a laptop computer on it"
+      ]
+    },
+    "detailed_caption": {
+      "text": "a symphony of a song",
+      "confidence": 1.0,
+      "bleu": 0.0,
+      "rouge_l": 0.044,
+      "blip_consistency": -0.0297,
+      "candidate_captions": [
+        "a man is sitting on a couch with a cup of coffee",
+        "a man is sitting on a couch with a cup of coffee in his hand",
+        "a man is sitting on a couch with a laptop computer on it"
+      ]
+    },
+    "metadata_consistency": true
+  },
+  {
+    "image_id": "100048.jpg",
+    "concise_caption": {
+      "text": "The roof of chamber 1 in the Soulton Long Barrow",
+      "confidence": 1.0,
+      "bleu": 0.0302,
+      "rouge_l": 0.4762,
+      "blip_consistency": 0.1724,
+      "candidate_captions": [
+        "a black and white image of a clock with a clock on it",
+        "a black and white image of a clock with a clock face",
+        "a black and white image of a room"
+      ]
+    },
+    "detailed_caption": {
+      "text": "The roof of chamber 1 in the Soulton Long Barrow",
+      "confidence": 1.0,
+      "bleu": 0.0302,
+      "rouge_l": 0.4762,
+      "blip_consistency": 0.1724,
+      "candidate_captions": [
+        "a black and white image of a clock with a clock on it",
+        "a black and white image of a clock with a clock face",
+        "a black and white image of a room"
+      ]
+    },
+    "metadata_consistency": true
+  },
+  {
+    "image_id": "100049.jpg",
+    "concise_caption": {
+      "text": "a neolithic stone monument in the centre of a neo",
+      "confidence": 1.0,
+      "bleu": 0.0,
+      "rouge_l": 0.1304,
+      "blip_consistency": 0.1609,
+      "candidate_captions": [
+        "an image of a tree in a field",
+        "an image of a tree in a field of grass",
+        "an image of a tree in a forest"
+      ]
+    },
+    "detailed_caption": {
+      "text": "a neolithic stone monument in the centre of a neo",
+      "confidence": 1.0,
+      "bleu": 0.0,
+      "rouge_l": 0.1304,
+      "blip_consistency": 0.1609,
+      "candidate_captions": [
+        "an image of a tree in a field",
+        "an image of a tree in a field of grass",
+        "an image of a tree in a forest"
+      ]
+    },
+    "metadata_consistency": true
+  },
+  {
+    "image_id": "10005.jpg",
+    "concise_caption": {
+      "text": "The city is located in the northeastern part of the state of arks",
+      "confidence": 1.0,
+      "bleu": 0.0028,
+      "rouge_l": 0.2222,
+      "blip_consistency": 0.0331,
+      "candidate_captions": [
+        "an image of a tree in a field of grass",
+        "an image of a tree in a field",
+        "an image of a tree in a forest"
+      ]
+    },
+    "detailed_caption": {
+      "text": "The city is located in the northeastern part of the state of arks",
+      "confidence": 1.0,
+      "bleu": 0.0028,
+      "rouge_l": 0.2222,
+      "blip_consistency": 0.0331,
+      "candidate_captions": [
+        "an image of a tree in a field of grass",
+        "an image of a tree in a field",
+        "an image of a tree in a forest"
+      ]
+    },
+    "metadata_consistency": true
+  },
+  {
+    "image_id": "100050.jpg",
+    "concise_caption": {
+      "text": "a sandstone cairn in the ruins of a sand",
+      "confidence": 1.0,
+      "bleu": 0.001,
+      "rouge_l": 0.0976,
+      "blip_consistency": 0.1586,
+      "candidate_captions": [
+        "an image of a tree in a snowstorm",
+        "a tree in a snowy landscape",
+        "an image of a tree in a forest"
+      ]
+    },
+    "detailed_caption": {
+      "text": "a sandstone cairn in the ruins of a sand",
+      "confidence": 1.0,
+      "bleu": 0.001,
+      "rouge_l": 0.0976,
+      "blip_consistency": 0.1586,
+      "candidate_captions": [
+        "an image of a tree in a snowstorm",
+        "a tree in a snowy landscape",
+        "an image of a tree in a forest"
+      ]
+    },
+    "metadata_consistency": true
+  },
+  {
+    "image_id": "100051.jpg",
+    "concise_caption": {
+      "text": "The Sanctuary Theatre is a theatre in the centre of the city of london,",
+      "confidence": 1.0,
+      "bleu": 0.003,
+      "rouge_l": 0.2545,
+      "blip_consistency": 0.0606,
+      "candidate_captions": [
+        "a picture of a train on a train track",
+        "a picture of a train on a track",
+        "a picture of a train on a train track in a city"
+      ]
+    },
+    "detailed_caption": {
+      "text": "The Sanctuary Theatre is a theatre in the centre of the city of london,",
+      "confidence": 1.0,
+      "bleu": 0.003,
+      "rouge_l": 0.2545,
+      "blip_consistency": 0.0606,
+      "candidate_captions": [
+        "a picture of a train on a train track",
+        "a picture of a train on a track",
+        "a picture of a train on a train track in a city"
+      ]
+    },
+    "metadata_consistency": true
+  },
+  {
+    "image_id": "100052.jpg",
+    "concise_caption": {
+      "text": "a very short caption.",
+      "confidence": 1.0,
+      "bleu": 0.0,
+      "rouge_l": 0.0377,
+      "blip_consistency": 0.2091,
+      "candidate_captions": [
+        "an image of a woman in a black and white photograph",
+        "an image of a woman in a black and white photo",
+        "an image of a person in a room"
+      ]
+    },
+    "detailed_caption": {
+      "text": "a detailed description.",
+      "confidence": 1.0,
+      "bleu": 0.0,
+      "rouge_l": 0.0385,
+      "blip_consistency": 0.2121,
+      "candidate_captions": [
+        "an image of a woman in a black and white photograph",
+        "an image of a woman in a black and white photo",
+        "an image of a person in a room"
+      ]
+    },
+    "metadata_consistency": true
+  },
+  {
+    "image_id": "100053.jpg",
+    "concise_caption": {
+      "text": "a symphony of the cynical cynical",
+      "confidence": 1.0,
+      "bleu": 0.0,
+      "rouge_l": 0.0343,
+      "blip_consistency": 0.108,
+      "candidate_captions": [
+        "a book on a table with a book on it",
+        "a book on a table with a black and white cover",
+        "a book on a table with a black and white background"
+      ]
+    },
+    "detailed_caption": {
+      "text": "a symphony of the cynical cynical",
+      "confidence": 1.0,
+      "bleu": 0.0,
+      "rouge_l": 0.0343,
+      "blip_consistency": 0.108,
+      "candidate_captions": [
+        "a book on a table with a book on it",
+        "a book on a table with a black and white cover",
+        "a book on a table with a black and white background"
+      ]
+    },
+    "metadata_consistency": true
+  },
+  {
+    "image_id": "100054.jpg",
+    "concise_caption": {
+      "text": "a symphony of a symphony of a",
+      "confidence": 1.0,
+      "bleu": 0.0,
+      "rouge_l": 0.0315,
+      "blip_consistency": 0.1789,
+      "candidate_captions": [
+        "a black and white image of a train on a train track",
+        "a black and white image of a train on a track",
+        "a black and white image of a train moving on a track"
+      ]
+    },
+    "detailed_caption": {
+      "text": "a symphony of a symphony of a",
+      "confidence": 1.0,
+      "bleu": 0.0,
+      "rouge_l": 0.0315,
+      "blip_consistency": 0.1789,
+      "candidate_captions": [
+        "a black and white image of a train on a train track",
+        "a black and white image of a train on a track",
+        "a black and white image of a train moving on a track"
+      ]
+    },
+    "metadata_consistency": true
+  },
+  {
+    "image_id": "100055.jpg",
+    "concise_caption": {
+      "text": "a squat, a squat, a squat",
+      "confidence": 1.0,
+      "bleu": 0.0,
+      "rouge_l": 0.0118,
+      "blip_consistency": 0.1299,
+      "candidate_captions": [
+        "an image of a building in a city",
+        "an image of a building in a city street",
+        "an image of a building with a clock tower"
+      ]
+    },
+    "detailed_caption": {
+      "text": "a squat, a squat, a squat",
+      "confidence": 1.0,
+      "bleu": 0.0,
+      "rouge_l": 0.0118,
+      "blip_consistency": 0.1299,
+      "candidate_captions": [
+        "an image of a building in a city",
+        "an image of a building in a city street",
+        "an image of a building with a clock tower"
+      ]
+    },
+    "metadata_consistency": true
+  },
+  {
+    "image_id": "100056.jpg",
+    "concise_caption": {
+      "text": "a sexy sexy sexy sexy s",
+      "confidence": 1.0,
+      "bleu": 0.0,
+      "rouge_l": 0.0179,
+      "blip_consistency": 0.0907,
+      "candidate_captions": [
+        "an image of a building with a clock on it",
+        "an image of a building with a clock in the background",
+        "an image of a building with a clock in the window"
+      ]
+    },
+    "detailed_caption": {
+      "text": "a sexy sexy sexy sexy s",
+      "confidence": 1.0,
+      "bleu": 0.0,
+      "rouge_l": 0.0179,
+      "blip_consistency": 0.0907,
+      "candidate_captions": [
+        "an image of a building with a clock on it",
+        "an image of a building with a clock in the background",
+        "an image of a building with a clock in the window"
+      ]
+    },
+    "metadata_consistency": true
+  },
+  {
+    "image_id": "100057.jpg",
+    "concise_caption": {
+      "text": "The British Nationality Act 1948 gave citizenship to all British citizens born in the United Kingdom and who have",
+      "confidence": 1.0,
+      "bleu": 0.0006,
+      "rouge_l": 0.2281,
+      "blip_consistency": -0.0711,
+      "candidate_captions": [
+        "a black and white image of a train traveling down a track",
+        "a black and white image of a train moving on a track",
+        "a black and white image of a train traveling down the tracks"
+      ]
+    },
+    "detailed_caption": {
+      "text": "The British Nationality Act 1948 gave citizenship to all British citizens born in the United Kingdom and who have",
+      "confidence": 1.0,
+      "bleu": 0.0006,
+      "rouge_l": 0.2281,
+      "blip_consistency": -0.0711,
+      "candidate_captions": [
+        "a black and white image of a train traveling down a track",
+        "a black and white image of a train moving on a track",
+        "a black and white image of a train traveling down the tracks"
+      ]
+    },
+    "metadata_consistency": true
+  },
+  {
+    "image_id": "100058.jpg",
+    "concise_caption": {
+      "text": "a woman is a woman is a man is a woman is a man and",
+      "confidence": 1.0,
+      "bleu": 0,
+      "rouge_l": 0.0,
+      "blip_consistency": 0.2058,
+      "candidate_captions": [
+        "a woman's face in a mirror",
+        "a woman's face is shown in a mirror image",
+        "a woman's face is shown in a mirror"
+      ]
+    },
+    "detailed_caption": {
+      "text": "a woman is a woman is a man is a woman is a man and",
+      "confidence": 1.0,
+      "bleu": 0,
+      "rouge_l": 0.0,
+      "blip_consistency": 0.2058,
+      "candidate_captions": [
+        "a woman's face in a mirror",
+        "a woman's face is shown in a mirror image",
+        "a woman's face is shown in a mirror"
+      ]
+    },
+    "metadata_consistency": true
+  },
+  {
+    "image_id": "100059.jpg",
+    "concise_caption": {
+      "text": "a slap in the face of a slap in the face of a",
+      "confidence": 1.0,
+      "bleu": 0.0,
+      "rouge_l": 0.0625,
+      "blip_consistency": -0.0113,
+      "candidate_captions": [
+        "a man in a suit with a tie and glasses",
+        "a man in a suit with a hat and tie",
+        "a man in a suit with a hat and glasses"
+      ]
+    },
+    "detailed_caption": {
+      "text": "a slap in the face of a slap in the face of a",
+      "confidence": 1.0,
+      "bleu": 0.0,
+      "rouge_l": 0.0625,
+      "blip_consistency": -0.0113,
+      "candidate_captions": [
+        "a man in a suit with a tie and glasses",
+        "a man in a suit with a hat and tie",
+        "a man in a suit with a hat and glasses"
+      ]
+    },
+    "metadata_consistency": true
+  },
+  {
+    "image_id": "10006.jpg",
+    "concise_caption": {
+      "text": "a symphony of a symphony of a",
+      "confidence": 1.0,
+      "bleu": 0.0,
+      "rouge_l": 0.0265,
+      "blip_consistency": 0.2187,
+      "candidate_captions": [
+        "a view of a field of wheat in a field of wheat",
+        "a view of a field of wheat in a field",
+        "a view of a field with a large number of trees"
+      ]
+    },
+    "detailed_caption": {
+      "text": "a symphony of a symphony of a",
+      "confidence": 1.0,
+      "bleu": 0.0,
+      "rouge_l": 0.0265,
+      "blip_consistency": 0.2187,
+      "candidate_captions": [
+        "a view of a field of wheat in a field of wheat",
+        "a view of a field of wheat in a field",
+        "a view of a field with a large number of trees"
+      ]
+    },
+    "metadata_consistency": true
+  },
+  {
+    "image_id": "100060.jpg",
+    "concise_caption": {
+      "text": "\"Lift Yourself\" is a song by American rapper Lil Wayne, from his",
+      "confidence": 1.0,
+      "bleu": 0.0,
+      "rouge_l": 0.0619,
+      "blip_consistency": 0.0577,
+      "candidate_captions": [
+        "an image of a man in a blue shirt and a blue shirt",
+        "an image of a man in a blue shirt with a blue shirt",
+        "an image of a man in a blue shirt and hat"
+      ]
+    },
+    "detailed_caption": {
+      "text": "\"Lift Yourself\" is a song by American rapper Lil Wayne, from his",
+      "confidence": 1.0,
+      "bleu": 0.0,
+      "rouge_l": 0.0619,
+      "blip_consistency": 0.0577,
+      "candidate_captions": [
+        "an image of a man in a blue shirt and a blue shirt",
+        "an image of a man in a blue shirt with a blue shirt",
+        "an image of a man in a blue shirt and hat"
+      ]
+    },
+    "metadata_consistency": true
+  },
+  {
+    "image_id": "100061.jpg",
+    "concise_caption": {
+      "text": "\"Lift Yourself\" is a song by American rapper Drake, released on April 30,",
+      "confidence": 1.0,
+      "bleu": 0.0,
+      "rouge_l": 0.1169,
+      "blip_consistency": -0.0622,
+      "candidate_captions": [
+        "a group of people are sitting in a room",
+        "a group of people sitting in a room",
+        "a group of people sitting in a room with a laptop computer"
+      ]
+    },
+    "detailed_caption": {
+      "text": "\"Lift Yourself\" is a song by American rapper Drake, released on April 30,",
+      "confidence": 1.0,
+      "bleu": 0.0,
+      "rouge_l": 0.1169,
+      "blip_consistency": -0.0622,
+      "candidate_captions": [
+        "a group of people are sitting in a room",
+        "a group of people sitting in a room",
+        "a group of people sitting in a room with a laptop computer"
+      ]
+    },
+    "metadata_consistency": true
+  },
+  {
+    "image_id": "100062.jpg",
+    "concise_caption": {
+      "text": "a screamed out \"I'm gonna get you\"",
+      "confidence": 1.0,
+      "bleu": 0.0,
+      "rouge_l": 0.0189,
+      "blip_consistency": 0.085,
+      "candidate_captions": [
+        "a black and white image of a person in a dark room",
+        "a black and white image of a black and white image of a black image",
+        "a black and white image of a person in a black shirt"
+      ]
+    },
+    "detailed_caption": {
+      "text": "a screamed out \"I'm gonna get you\"",
+      "confidence": 1.0,
+      "bleu": 0.0,
+      "rouge_l": 0.0189,
+      "blip_consistency": 0.085,
+      "candidate_captions": [
+        "a black and white image of a person in a dark room",
+        "a black and white image of a black and white image of a black image",
+        "a black and white image of a person in a black shirt"
+      ]
+    },
+    "metadata_consistency": true
+  },
+  {
+    "image_id": "100063.jpg",
+    "concise_caption": {
+      "text": "a symbiotic relationship between a symbiotic ant and",
+      "confidence": 1.0,
+      "bleu": 0.0,
+      "rouge_l": 0.02,
+      "blip_consistency": 0.1576,
+      "candidate_captions": [
+        "a black and white image of a tree in a forest",
+        "a black and white image of a tree in a field",
+        "a black and white image of a tree in a dark forest"
+      ]
+    },
+    "detailed_caption": {
+      "text": "a symbiotic relationship between a symbiotic ant and",
+      "confidence": 1.0,
+      "bleu": 0.0,
+      "rouge_l": 0.02,
+      "blip_consistency": 0.1576,
+      "candidate_captions": [
+        "a black and white image of a tree in a forest",
+        "a black and white image of a tree in a field",
+        "a black and white image of a tree in a dark forest"
+      ]
+    },
+    "metadata_consistency": true
+  },
+  {
+    "image_id": "100064.jpg",
+    "concise_caption": {
+      "text": "a variety of arthropods prey on C. sp.",
+      "confidence": 1.0,
+      "bleu": 0.0,
+      "rouge_l": 0.1304,
+      "blip_consistency": 0.0644,
+      "candidate_captions": [
+        "a black and white image of a tree in a forest",
+        "a black and white image of a tree in a field",
+        "a black and white image of a tree in the forest"
+      ]
+    },
+    "detailed_caption": {
+      "text": "a variety of arthropods prey on C. sp.",
+      "confidence": 1.0,
+      "bleu": 0.0,
+      "rouge_l": 0.1304,
+      "blip_consistency": 0.0644,
+      "candidate_captions": [
+        "a black and white image of a tree in a forest",
+        "a black and white image of a tree in a field",
+        "a black and white image of a tree in the forest"
+      ]
+    },
+    "metadata_consistency": true
+  },
+  {
+    "image_id": "100065.jpg",
+    "concise_caption": {
+      "text": "a sculptor and painter who has been working in the field of sculpture since the early",
+      "confidence": 1.0,
+      "bleu": 0.0038,
+      "rouge_l": 0.2034,
+      "blip_consistency": 0.0394,
+      "candidate_captions": [
+        "a woman is sitting in a chair with a laptop computer",
+        "a woman is sitting in a chair",
+        "a woman is sitting in a chair with a cup"
+      ]
+    },
+    "detailed_caption": {
+      "text": "a sculptor and painter who has been working in the field of sculpture since the early",
+      "confidence": 1.0,
+      "bleu": 0.0038,
+      "rouge_l": 0.2034,
+      "blip_consistency": 0.0394,
+      "candidate_captions": [
+        "a woman is sitting in a chair with a laptop computer",
+        "a woman is sitting in a chair",
+        "a woman is sitting in a chair with a cup"
+      ]
+    },
+    "metadata_consistency": true
+  },
+  {
+    "image_id": "100066.jpg",
+    "concise_caption": {
+      "text": "a small and modern village, but its history dates back to the Iron Age",
+      "confidence": 1.0,
+      "bleu": 0.0082,
+      "rouge_l": 0.3889,
+      "blip_consistency": 0.0758,
+      "candidate_captions": [
+        "a black and white image of a woman's face",
+        "a black and white image of a woman's face with a black background",
+        "a black and white image of a woman's face in a black background"
+      ]
+    },
+    "detailed_caption": {
+      "text": "a small and modern village, but its history dates back to the Iron Age",
+      "confidence": 1.0,
+      "bleu": 0.0082,
+      "rouge_l": 0.3889,
+      "blip_consistency": 0.0758,
+      "candidate_captions": [
+        "a black and white image of a woman's face",
+        "a black and white image of a woman's face with a black background",
+        "a black and white image of a woman's face in a black background"
+      ]
+    },
+    "metadata_consistency": true
+  },
+  {
+    "image_id": "10007.jpg",
+    "concise_caption": {
+      "text": "The Sunol Water Temple is an unusual Roman-inspired structure that marks the confluence of",
+      "confidence": 1.0,
+      "bleu": 0.0,
+      "rouge_l": 0.1905,
+      "blip_consistency": 0.2073,
+      "candidate_captions": [
+        "an image of a clock tower with a clock on it",
+        "an image of a building with a clock tower",
+        "an image of a clock tower with a clock tower"
+      ]
+    },
+    "detailed_caption": {
+      "text": "The Sunol Water Temple is an unusual Roman-inspired structure that marks the confluence of",
+      "confidence": 1.0,
+      "bleu": 0.0,
+      "rouge_l": 0.1905,
+      "blip_consistency": 0.2073,
+      "candidate_captions": [
+        "an image of a clock tower with a clock on it",
+        "an image of a building with a clock tower",
+        "an image of a clock tower with a clock tower"
+      ]
+    },
+    "metadata_consistency": true
+  },
+  {
+    "image_id": "100070.jpg",
+    "concise_caption": {
+      "text": "a very short caption of the image.",
+      "confidence": 1.0,
+      "bleu": 0.0,
+      "rouge_l": 0.055,
+      "blip_consistency": 0.2451,
+      "candidate_captions": [
+        "a drawing of a man with a hat on his head",
+        "a drawing of a man's head with a hat on his head",
+        "a drawing of a man's head with a hat and glasses"
+      ]
+    },
+    "detailed_caption": {
+      "text": "a very short caption of the image.",
+      "confidence": 1.0,
+      "bleu": 0.0,
+      "rouge_l": 0.055,
+      "blip_consistency": 0.2451,
+      "candidate_captions": [
+        "a drawing of a man with a hat on his head",
+        "a drawing of a man's head with a hat on his head",
+        "a drawing of a man's head with a hat and glasses"
+      ]
+    },
+    "metadata_consistency": true
+  },
+  {
+    "image_id": "100071.jpg",
+    "concise_caption": {
+      "text": "a sailor is a man who is a slave to another man",
+      "confidence": 1.0,
+      "bleu": 0.0,
+      "rouge_l": 0.1099,
+      "blip_consistency": 0.2515,
+      "candidate_captions": [
+        "a portrait of a man in a suit and tie",
+        "a portrait of a man in a suit",
+        "a portrait of a man in a black suit"
+      ]
+    },
+    "detailed_caption": {
+      "text": "a sailor is a man who is a slave to another man",
+      "confidence": 1.0,
+      "bleu": 0.0,
+      "rouge_l": 0.1099,
+      "blip_consistency": 0.2515,
+      "candidate_captions": [
+        "a portrait of a man in a suit and tie",
+        "a portrait of a man in a suit",
+        "a portrait of a man in a black suit"
+      ]
+    },
+    "metadata_consistency": true
+  },
+  {
+    "image_id": "100073.jpg",
+    "concise_caption": {
+      "text": "a very short caption.",
+      "confidence": 1.0,
+      "bleu": 0,
+      "rouge_l": 0.0,
+      "blip_consistency": 0.1526,
+      "candidate_captions": [
+        "a computer screen with a clock on it",
+        "an image of a computer screen with a blue background",
+        "an image of a computer screen with a blue screen"
+      ]
+    },
+    "detailed_caption": {
+      "text": "a very short caption.",
+      "confidence": 1.0,
+      "bleu": 0,
+      "rouge_l": 0.0,
+      "blip_consistency": 0.1526,
+      "candidate_captions": [
+        "a computer screen with a clock on it",
+        "an image of a computer screen with a blue background",
+        "an image of a computer screen with a blue screen"
+      ]
+    },
+    "metadata_consistency": true
+  },
+  {
+    "image_id": "100074.jpg",
+    "concise_caption": {
+      "text": "The Hiker along Memorial Drive on the way to Arlington National Cemetery",
+      "confidence": 1.0,
+      "bleu": 0.0072,
+      "rouge_l": 0.4211,
+      "blip_consistency": 0.1947,
+      "candidate_captions": [
+        "a sculpture of a tree in a garden",
+        "a statue of a person in a garden",
+        "a sculpture of a tree in a park"
+      ]
+    },
+    "detailed_caption": {
+      "text": "The Hiker along Memorial Drive on the way to Arlington National Cemetery",
+      "confidence": 1.0,
+      "bleu": 0.0072,
+      "rouge_l": 0.4211,
+      "blip_consistency": 0.1947,
+      "candidate_captions": [
+        "a sculpture of a tree in a garden",
+        "a statue of a person in a garden",
+        "a sculpture of a tree in a park"
+      ]
+    },
+    "metadata_consistency": true
+  },
+  {
+    "image_id": "100075.jpg",
+    "concise_caption": {
+      "text": "a house is a building that is designed to be able to be adapted to",
+      "confidence": 1.0,
+      "bleu": 0.0001,
+      "rouge_l": 0.093,
+      "blip_consistency": 0.4058,
+      "candidate_captions": [
+        "a view of a house with a tree in the background",
+        "an image of a house with a tree in the background",
+        "an image of a house with a tree in front of it"
+      ]
+    },
+    "detailed_caption": {
+      "text": "a house is a building that is designed to be able to be adapted to",
+      "confidence": 1.0,
+      "bleu": 0.0001,
+      "rouge_l": 0.093,
+      "blip_consistency": 0.4058,
+      "candidate_captions": [
+        "a view of a house with a tree in the background",
+        "an image of a house with a tree in the background",
+        "an image of a house with a tree in front of it"
+      ]
+    },
+    "metadata_consistency": true
+  },
+  {
+    "image_id": "100076.jpg",
+    "concise_caption": {
+      "text": "a very short caption.",
+      "confidence": 1.0,
+      "bleu": 0.0,
+      "rouge_l": 0.0541,
+      "blip_consistency": 0.1384,
+      "candidate_captions": [
+        "a drawing of a woman's face in a black and white background",
+        "a drawing of a woman's face in a black and white frame",
+        "a drawing of a woman's face with a black background"
+      ]
+    },
+    "detailed_caption": {
+      "text": "a very short caption.",
+      "confidence": 1.0,
+      "bleu": 0.0,
+      "rouge_l": 0.0541,
+      "blip_consistency": 0.1384,
+      "candidate_captions": [
+        "a drawing of a woman's face in a black and white background",
+        "a drawing of a woman's face in a black and white frame",
+        "a drawing of a woman's face with a black background"
+      ]
+    },
+    "metadata_consistency": true
+  },
+  {
+    "image_id": "100077.jpg",
+    "concise_caption": {
+      "text": "he is known for his contributions to our understanding of plant diseases and plant immunity",
+      "confidence": 1.0,
+      "bleu": 0.0057,
+      "rouge_l": 0.3333,
+      "blip_consistency": 0.1091,
+      "candidate_captions": [
+        "a man is standing in front of a computer screen",
+        "a man is standing in front of a mirror",
+        "a man is standing in front of a computer screen with a laptop"
+      ]
+    },
+    "detailed_caption": {
+      "text": "he is known for his contributions to our understanding of plant diseases and plant immunity",
+      "confidence": 1.0,
+      "bleu": 0.0057,
+      "rouge_l": 0.3333,
+      "blip_consistency": 0.1091,
+      "candidate_captions": [
+        "a man is standing in front of a computer screen",
+        "a man is standing in front of a mirror",
+        "a man is standing in front of a computer screen with a laptop"
+      ]
+    },
+    "metadata_consistency": true
+  },
+  {
+    "image_id": "100078.jpg",
+    "concise_caption": {
+      "text": "a symbol of the eponymous word in the middle of the",
+      "confidence": 1.0,
+      "bleu": 0.0,
+      "rouge_l": 0.08,
+      "blip_consistency": 0.1458,
+      "candidate_captions": [
+        "a diagram of a graph of a graph of a graph of a graph",
+        "a diagram of a graph of a graph of a graph",
+        "a diagram of a graph of a graph"
+      ]
+    },
+    "detailed_caption": {
+      "text": "a symbol of the eponymous word in the middle of the",
+      "confidence": 1.0,
+      "bleu": 0.0,
+      "rouge_l": 0.08,
+      "blip_consistency": 0.1458,
+      "candidate_captions": [
+        "a diagram of a graph of a graph of a graph of a graph",
+        "a diagram of a graph of a graph of a graph",
+        "a diagram of a graph of a graph"
+      ]
+    },
+    "metadata_consistency": true
+  },
+  {
+    "image_id": "100079.jpg",
+    "concise_caption": {
+      "text": "a dance in the savannah of the savannah dance in the",
+      "confidence": 1.0,
+      "bleu": 0.0,
+      "rouge_l": 0.1235,
+      "blip_consistency": 0.1398,
+      "candidate_captions": [
+        "a black and white image of a train moving on a track",
+        "a black and white image of a train moving on a train track",
+        "a black and white image of a train moving on a railway track"
+      ]
+    },
+    "detailed_caption": {
+      "text": "a dance in the savannah of the savannah dance in the",
+      "confidence": 1.0,
+      "bleu": 0.0,
+      "rouge_l": 0.1235,
+      "blip_consistency": 0.1398,
+      "candidate_captions": [
+        "a black and white image of a train moving on a track",
+        "a black and white image of a train moving on a train track",
+        "a black and white image of a train moving on a railway track"
+      ]
+    },
+    "metadata_consistency": true
+  },
+  {
+    "image_id": "10008.jpg",
+    "concise_caption": {
+      "text": "a very short caption.",
+      "confidence": 1.0,
+      "bleu": 0.0,
+      "rouge_l": 0.026,
+      "blip_consistency": 0.1681,
+      "candidate_captions": [
+        "a view of a train station with a train in the background",
+        "a view of a train station with a train on the tracks",
+        "a view of a train station with a train on a track"
+      ]
+    },
+    "detailed_caption": {
+      "text": "a very short caption.",
+      "confidence": 1.0,
+      "bleu": 0.0,
+      "rouge_l": 0.026,
+      "blip_consistency": 0.1681,
+      "candidate_captions": [
+        "a view of a train station with a train in the background",
+        "a view of a train station with a train on the tracks",
+        "a view of a train station with a train on a track"
+      ]
+    },
+    "metadata_consistency": true
+  },
+  {
+    "image_id": "100080.jpg",
+    "concise_caption": {
+      "text": "a woman is standing in front of a building in front of a building in front of",
+      "confidence": 1.0,
+      "bleu": 0.0,
+      "rouge_l": 0.0462,
+      "blip_consistency": 0.0414,
+      "candidate_captions": [
+        "a black and white image of a train on a train track",
+        "a black and white image of a train traveling down a track",
+        "a black and white image of a train on a track"
+      ]
+    },
+    "detailed_caption": {
+      "text": "a woman is standing in front of a building in front of a building in front of",
+      "confidence": 1.0,
+      "bleu": 0.0,
+      "rouge_l": 0.0462,
+      "blip_consistency": 0.0414,
+      "candidate_captions": [
+        "a black and white image of a train on a train track",
+        "a black and white image of a train traveling down a track",
+        "a black and white image of a train on a track"
+      ]
+    },
+    "metadata_consistency": true
+  },
+  {
+    "image_id": "100083.jpg",
+    "concise_caption": {
+      "text": "The WLM movement in the Netherlands, as elsewhere, was born out of the political climate of the",
+      "confidence": 1.0,
+      "bleu": 0.0001,
+      "rouge_l": 0.2121,
+      "blip_consistency": -0.0342,
+      "candidate_captions": [
+        "a black and white image of a clock in a room",
+        "a black and white image of a clock with a clock face",
+        "a black and white image of a clock"
+      ]
+    },
+    "detailed_caption": {
+      "text": "The WLM movement in the Netherlands, as elsewhere, was born out of the political climate of the",
+      "confidence": 1.0,
+      "bleu": 0.0001,
+      "rouge_l": 0.2121,
+      "blip_consistency": -0.0342,
+      "candidate_captions": [
+        "a black and white image of a clock in a room",
+        "a black and white image of a clock with a clock face",
+        "a black and white image of a clock"
+      ]
+    },
+    "metadata_consistency": true
+  },
+  {
+    "image_id": "100084.jpg",
+    "concise_caption": {
+      "text": "a large shopping mall in the city of santo, santo,",
+      "confidence": 1.0,
+      "bleu": 0.0,
+      "rouge_l": 0.1443,
+      "blip_consistency": 0.1073,
+      "candidate_captions": [
+        "a view of a room with a view of a room with a view of a room",
+        "a view of a room with a view of a room with a view of a window",
+        "a view of a room with a view of a room with a view"
+      ]
+    },
+    "detailed_caption": {
+      "text": "a large shopping mall in the city of santo, santo,",
+      "confidence": 1.0,
+      "bleu": 0.0,
+      "rouge_l": 0.1443,
+      "blip_consistency": 0.1073,
+      "candidate_captions": [
+        "a view of a room with a view of a room with a view of a room",
+        "a view of a room with a view of a room with a view of a window",
+        "a view of a room with a view of a room with a view"
+      ]
+    },
+    "metadata_consistency": true
+  },
+  {
+    "image_id": "100085.jpg",
+    "concise_caption": {
+      "text": "The second is a very short caption.",
+      "confidence": 1.0,
+      "bleu": 0.0,
+      "rouge_l": 0.0217,
+      "blip_consistency": 0.1277,
+      "candidate_captions": [
+        "a poster with a blue and white image of a man in a blue shirt",
+        "a poster with a blue and white image of a person in a blue shirt",
+        "a poster with a blue and white image of a woman in a blue dress"
+      ]
+    },
+    "detailed_caption": {
+      "text": "The second is a very short caption.",
+      "confidence": 1.0,
+      "bleu": 0.0,
+      "rouge_l": 0.0217,
+      "blip_consistency": 0.1277,
+      "candidate_captions": [
+        "a poster with a blue and white image of a man in a blue shirt",
+        "a poster with a blue and white image of a person in a blue shirt",
+        "a poster with a blue and white image of a woman in a blue dress"
+      ]
+    },
+    "metadata_consistency": true
+  },
+  {
+    "image_id": "100086.jpg",
+    "concise_caption": {
+      "text": "a symphony of a symphony of a",
+      "confidence": 1.0,
+      "bleu": 0,
+      "rouge_l": 0.0,
+      "blip_consistency": -0.0445,
+      "candidate_captions": [
+        "a man is sitting on a chair in a room",
+        "a man is sitting on a chair in a dark room",
+        "a man is sitting on a chair"
+      ]
+    },
+    "detailed_caption": {
+      "text": "a symphony of a symphony of a",
+      "confidence": 1.0,
+      "bleu": 0,
+      "rouge_l": 0.0,
+      "blip_consistency": -0.0445,
+      "candidate_captions": [
+        "a man is sitting on a chair in a room",
+        "a man is sitting on a chair in a dark room",
+        "a man is sitting on a chair"
+      ]
+    },
+    "metadata_consistency": true
+  },
+  {
+    "image_id": "100087.jpg",
+    "concise_caption": {
+      "text": "a sexy sexy sexy sexy s",
+      "confidence": 1.0,
+      "bleu": 0,
+      "rouge_l": 0.0,
+      "blip_consistency": 0.0652,
+      "candidate_captions": [
+        "a man in a suit with a tie and glasses",
+        "a man in a suit with a hat and glasses",
+        "a man in a suit with a hat and tie"
+      ]
+    },
+    "detailed_caption": {
+      "text": "a sexy sexy sexy sexy s",
+      "confidence": 1.0,
+      "bleu": 0,
+      "rouge_l": 0.0,
+      "blip_consistency": 0.0652,
+      "candidate_captions": [
+        "a man in a suit with a tie and glasses",
+        "a man in a suit with a hat and glasses",
+        "a man in a suit with a hat and tie"
+      ]
+    },
+    "metadata_consistency": true
+  },
+  {
+    "image_id": "100088.jpg",
+    "concise_caption": {
+      "text": "a sexy sexy sexy sexy s",
+      "confidence": 1.0,
+      "bleu": 0,
+      "rouge_l": 0.0,
+      "blip_consistency": 0.0498,
+      "candidate_captions": [
+        "a man in a suit standing in a dark room",
+        "a man in a suit standing in front of a computer screen",
+        "a man in a suit is standing in front of a computer"
+      ]
+    },
+    "detailed_caption": {
+      "text": "a sexy sexy sexy sexy s",
+      "confidence": 1.0,
+      "bleu": 0,
+      "rouge_l": 0.0,
+      "blip_consistency": 0.0498,
+      "candidate_captions": [
+        "a man in a suit standing in a dark room",
+        "a man in a suit standing in front of a computer screen",
+        "a man in a suit is standing in front of a computer"
+      ]
+    },
+    "metadata_consistency": true
+  },
+  {
+    "image_id": "100089.jpg",
+    "concise_caption": {
+      "text": "a symphony of a symphony, a",
+      "confidence": 1.0,
+      "bleu": 0,
+      "rouge_l": 0.0,
+      "blip_consistency": -0.0758,
+      "candidate_captions": [
+        "a man is standing in front of a computer screen",
+        "a man is standing in front of a wall",
+        "a man is standing in front of a computer screen with his arms crossed"
+      ]
+    },
+    "detailed_caption": {
+      "text": "a symphony of a symphony, a",
+      "confidence": 1.0,
+      "bleu": 0,
+      "rouge_l": 0.0,
+      "blip_consistency": -0.0758,
+      "candidate_captions": [
+        "a man is standing in front of a computer screen",
+        "a man is standing in front of a wall",
+        "a man is standing in front of a computer screen with his arms crossed"
+      ]
+    },
+    "metadata_consistency": true
+  },
+  {
+    "image_id": "10009.jpg",
+    "concise_caption": {
+      "text": "a reconstructed hut in the sand dunes of the lone pine",
+      "confidence": 1.0,
+      "bleu": 0.0003,
+      "rouge_l": 0.1034,
+      "blip_consistency": 0.0515,
+      "candidate_captions": [
+        "a black and white image of a train traveling down a track",
+        "a black and white image of a black and white image",
+        "a black and white image of a black and white image of a person"
+      ]
+    },
+    "detailed_caption": {
+      "text": "a reconstructed hut in the sand dunes of the lone pine",
+      "confidence": 1.0,
+      "bleu": 0.0003,
+      "rouge_l": 0.1034,
+      "blip_consistency": 0.0515,
+      "candidate_captions": [
+        "a black and white image of a train traveling down a track",
+        "a black and white image of a black and white image",
+        "a black and white image of a black and white image of a person"
+      ]
+    },
+    "metadata_consistency": true
+  },
+  {
+    "image_id": "100091.jpg",
+    "concise_caption": {
+      "text": "i am a muslim woman from afghanistan who was born in",
+      "confidence": 1.0,
+      "bleu": 0.0038,
+      "rouge_l": 0.1724,
+      "blip_consistency": 0.0543,
+      "candidate_captions": [
+        "a woman is sitting in a chair with a cup of coffee",
+        "a woman is sitting in a chair with a laptop computer",
+        "a woman is sitting in a chair with a laptop computer on it"
+      ]
+    },
+    "detailed_caption": {
+      "text": "i am a muslim woman from afghanistan who was born in",
+      "confidence": 1.0,
+      "bleu": 0.0038,
+      "rouge_l": 0.1724,
+      "blip_consistency": 0.0543,
+      "candidate_captions": [
+        "a woman is sitting in a chair with a cup of coffee",
+        "a woman is sitting in a chair with a laptop computer",
+        "a woman is sitting in a chair with a laptop computer on it"
+      ]
+    },
+    "metadata_consistency": true
+  },
+  {
+    "image_id": "100092.jpg",
+    "concise_caption": {
+      "text": "a cyclocross race in which the cyclists ride a tandem bike in a",
+      "confidence": 1.0,
+      "bleu": 0.0001,
+      "rouge_l": 0.0857,
+      "blip_consistency": 0.0833,
+      "candidate_captions": [
+        "a diagram showing the structure of a cell in the human body",
+        "a diagram showing the structure of a cell in a cell",
+        "a diagram showing the structure of a cell"
+      ]
+    },
+    "detailed_caption": {
+      "text": "a cyclocross race in which the cyclists ride a tandem bike in a",
+      "confidence": 1.0,
+      "bleu": 0.0001,
+      "rouge_l": 0.0857,
+      "blip_consistency": 0.0833,
+      "candidate_captions": [
+        "a diagram showing the structure of a cell in the human body",
+        "a diagram showing the structure of a cell in a cell",
+        "a diagram showing the structure of a cell"
+      ]
+    },
+    "metadata_consistency": true
+  },
+  {
+    "image_id": "100093.jpg",
+    "concise_caption": {
+      "text": "a ruined monastery on the island of st john",
+      "confidence": 1.0,
+      "bleu": 0.0,
+      "rouge_l": 0.0498,
+      "blip_consistency": 0.018,
+      "candidate_captions": [
+        "an image of a tree in a forest",
+        "an image of a tree in a snowstorm",
+        "an image of a tree in the snow"
+      ]
+    },
+    "detailed_caption": {
+      "text": "a ruined monastery on the island of st john",
+      "confidence": 1.0,
+      "bleu": 0.0,
+      "rouge_l": 0.0498,
+      "blip_consistency": 0.018,
+      "candidate_captions": [
+        "an image of a tree in a forest",
+        "an image of a tree in a snowstorm",
+        "an image of a tree in the snow"
+      ]
+    },
+    "metadata_consistency": true
+  },
+  {
+    "image_id": "100094.jpg",
+    "concise_caption": {
+      "text": "a symbiotic relationship between a symbiotic nemato",
+      "confidence": 1.0,
+      "bleu": 0.0019,
+      "rouge_l": 0.0625,
+      "blip_consistency": 0.109,
+      "candidate_captions": [
+        "a close up of a leaf in a tree",
+        "a close up of a leaf with a leaf pattern",
+        "a close up image of a leaf with a leaf pattern"
+      ]
+    },
+    "detailed_caption": {
+      "text": "a symbiotic relationship between a symbiotic nemato",
+      "confidence": 1.0,
+      "bleu": 0.0019,
+      "rouge_l": 0.0625,
+      "blip_consistency": 0.109,
+      "candidate_captions": [
+        "a close up of a leaf in a tree",
+        "a close up of a leaf with a leaf pattern",
+        "a close up image of a leaf with a leaf pattern"
+      ]
+    },
+    "metadata_consistency": true
+  },
+  {
+    "image_id": "100095.jpg",
+    "concise_caption": {
+      "text": "a symphony of the song ' ' ' '",
+      "confidence": 1.0,
+      "bleu": 0.002,
+      "rouge_l": 0.1538,
+      "blip_consistency": 0.0658,
+      "candidate_captions": [
+        "a page of a book with an image of a book",
+        "a page of a book with an image of a letter",
+        "a page of a book with a title page"
+      ]
+    },
+    "detailed_caption": {
+      "text": "a symphony of the song ' ' ' '",
+      "confidence": 1.0,
+      "bleu": 0.002,
+      "rouge_l": 0.1538,
+      "blip_consistency": 0.0658,
+      "candidate_captions": [
+        "a page of a book with an image of a book",
+        "a page of a book with an image of a letter",
+        "a page of a book with a title page"
+      ]
+    },
+    "metadata_consistency": true
+  },
+  {
+    "image_id": "100096.jpg",
+    "concise_caption": {
+      "text": "a very short caption.",
+      "confidence": 1.0,
+      "bleu": 0.0,
+      "rouge_l": 0.0189,
+      "blip_consistency": 0.2478,
+      "candidate_captions": [
+        "an image of a person in a room with a clock on the wall",
+        "an image of a person in a room with a clock",
+        "an image of a person in a room"
+      ]
+    },
+    "detailed_caption": {
+      "text": "a very short caption.",
+      "confidence": 1.0,
+      "bleu": 0.0,
+      "rouge_l": 0.0189,
+      "blip_consistency": 0.2478,
+      "candidate_captions": [
+        "an image of a person in a room with a clock on the wall",
+        "an image of a person in a room with a clock",
+        "an image of a person in a room"
+      ]
+    },
+    "metadata_consistency": true
+  },
+  {
+    "image_id": "100097.jpg",
+    "concise_caption": {
+      "text": "a reversal of the usual symbol of the sym",
+      "confidence": 1.0,
+      "bleu": 0.0,
+      "rouge_l": 0.0548,
+      "blip_consistency": 0.0654,
+      "candidate_captions": [
+        "a portrait of a man in a suit and tie",
+        "a portrait of a man in a suit",
+        "a portrait of a man in a black suit"
+      ]
+    },
+    "detailed_caption": {
+      "text": "a reversal of the usual symbol of the sym",
+      "confidence": 1.0,
+      "bleu": 0.0,
+      "rouge_l": 0.0548,
+      "blip_consistency": 0.0654,
+      "candidate_captions": [
+        "a portrait of a man in a suit and tie",
+        "a portrait of a man in a suit",
+        "a portrait of a man in a black suit"
+      ]
+    },
+    "metadata_consistency": true
+  },
+  {
+    "image_id": "10010.jpg",
+    "concise_caption": {
+      "text": "The population density was .",
+      "confidence": 1.0,
+      "bleu": 0.0,
+      "rouge_l": 0.086,
+      "blip_consistency": 0.0455,
+      "candidate_captions": [
+        "a black and white image of a tree in a field",
+        "a black and white image of a tree in a forest",
+        "a black and white image of a tree in the forest"
+      ]
+    },
+    "detailed_caption": {
+      "text": "The population density was .",
+      "confidence": 1.0,
+      "bleu": 0.0,
+      "rouge_l": 0.086,
+      "blip_consistency": 0.0455,
+      "candidate_captions": [
+        "a black and white image of a tree in a field",
+        "a black and white image of a tree in a forest",
+        "a black and white image of a tree in the forest"
+      ]
+    },
+    "metadata_consistency": true
+  }
+]
